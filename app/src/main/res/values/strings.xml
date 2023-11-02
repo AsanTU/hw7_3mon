@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw7_3mon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="talk_me_down">Talk Me Down</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="blue_neighbourhood">Blue Neighbourhood</string>
+</resources>
